@@ -3,6 +3,7 @@ layout: post
 title:  "Hypothesis Testing"
 date:   2023-02-26 17:05:48 +0700
 categories: jekyll update
+katex: true
 ---
 
 # 1. Definition of hypothesis testing
