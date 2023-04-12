@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Hypothesis Testing"
-date:   2023-02-26 17:05:48 +0700
-categories: jekyll update
+title:  Hypothesis Testing
+date:   2023-02-26
 katex: True
 ---
 
@@ -16,4 +15,6 @@ katex: True
 
 
 $\frac{\alpha}{\beta}$
+
+Hello world
 - ![Alt text](/images/R-Null_hypothesis_alpha_and_p-value.png)
