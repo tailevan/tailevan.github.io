@@ -18,8 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+markdown: kramdown
+
 kramdown:
   math_engine: katex
+plugins:
+  - jekyll-latex
 
 title: Statistic And Probability Summaries
 email: tai.lv@hotmail.com

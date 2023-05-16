@@ -17,4 +17,5 @@ katex: True
 $\frac{\alpha}{\beta}$
 
 Hello world
+
 - ![Alt text](/images/R-Null_hypothesis_alpha_and_p-value.png)
