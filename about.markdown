@@ -14,8 +14,8 @@ This is Statistic and Probability Summaries
 ## Certifications
 
 # Data Visualization
-- [Data Visulization With Python](https://courses.edx.org/certificates/282702f36a164c568d2b199913304396)
-- [Power BI]()
+- [Data Visulization With Python - IBM](https://courses.edx.org/certificates/282702f36a164c568d2b199913304396)
+- [Power BI - Davidson College](https://courses.edx.org/certificates/ceeec63c6a304a48bf29126083c14dd4)
 
 # MITx MicroMaster Statistics and Data Science Program
 - [Probability - The Science of Uncertainty and Data](https://courses.edx.org/certificates/a34d612b2be64d2d9a4fc69f205e3583)
