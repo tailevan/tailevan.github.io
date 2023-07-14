@@ -13,6 +13,9 @@ This is Statistic and Probability Summaries
 
 ## Certifications
 
+# Machine Learning - DeepLearning.AI - Stanford - Coursera
+- [Supervised Machine Learning](https://coursera.org/share/da0b8bf6b92dd4acfe6c9810b00a8b44)
+
 # Data Visualization
 - [Data Visulization With Python - IBM](https://courses.edx.org/certificates/282702f36a164c568d2b199913304396)
 - [Power BI - Davidson College](https://courses.edx.org/certificates/ceeec63c6a304a48bf29126083c14dd4)
