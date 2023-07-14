@@ -44,4 +44,3 @@ This is Statistic and Probability Summaries
 - [Incidient Investigator - Taproot (R)](/images/Tap_root.jpg)
 - [Drager Gas Detection](/images/Drager_gas_cert.png)
 - [ISC Gas Dectection System](/images/ISC_gas_detection_system.png)
-- [Scaffolding Inspector](/images/Scaffolding.pdf)
