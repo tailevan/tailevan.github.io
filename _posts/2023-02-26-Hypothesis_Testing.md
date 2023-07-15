@@ -12,9 +12,7 @@ katex: True
 >1. Determine a model
 >2. Determine a **null** and **alternative** hypothesis 
 
-
-
 $$\alpha$$
 
-check update
+check 2nd time
 - ![Alt text](/images/R-Null_hypothesis_alpha_and_p-value.png)
