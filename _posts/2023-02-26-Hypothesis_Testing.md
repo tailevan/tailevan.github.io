@@ -16,6 +16,7 @@ katex: True
 
 $$\alpha$$
 
+hello
 
 
 - ![Alt text](/images/R-Null_hypothesis_alpha_and_p-value.png)
