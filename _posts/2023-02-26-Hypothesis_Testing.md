@@ -14,5 +14,5 @@ katex: True
 
 $$\alpha$$
 
-check 2nd time
+last time isn't it
 - ![Alt text](/images/R-Null_hypothesis_alpha_and_p-value.png)
