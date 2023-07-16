@@ -2,7 +2,7 @@
 layout: post
 title:  Hypothesis Testing
 date:   2023-02-26
-#katex: True
+katex: True
 ---
 
 # 1. Definition of hypothesis testing
