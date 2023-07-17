@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: mathjax
 title:  Hypothesis Testing
 date:   2023-02-26
 ---
