@@ -74,7 +74,7 @@ plt.axis("equal")
 ```
 - ![TNSE](/images/TSNE-plot-with-label-color-code-for-cell-types.png)
 - The PCA plot with the label information from KMeans 3 clusters
-	- ![PCA](PCA-plot-with-label.png)
+	- ![PCA](/images/PCA-plot-with-label.png)
 
 # Unsupervised Feature Selection
 

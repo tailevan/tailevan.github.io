@@ -23,13 +23,12 @@ kramdown:
 
 
 
-title: Statistics And Probability Summaries
+title: Stats Summaries and Stories
 email: tai.lv@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is statistics and probability summaries
+  This is stats and stories
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tailevan
 github_username:  tailevan
 
 # Build settings

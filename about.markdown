@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is Statistics and Probability Summaries
+This is Stats Summaries and Stories
 
-- Tai Le Van
+- About me: Tai Le Van
     - [Github](https://github.com/tailevan)
     - [LinkedIn](https://linkedin.com/in/tailevan)
 
