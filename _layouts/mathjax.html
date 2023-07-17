@@ -1,19 +1,23 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-    <script type="application/ld+json">
-        {"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-02-26T00:00:00+07:00","datePublished":"2023-02-26T00:00:00+07:00","description":"1. Definition of hypothesis testing","headline":"Hypothesis Testing","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2023/02/26/Hypothesis_Testing.html"},"url":"http://localhost:4000/2023/02/26/Hypothesis_Testing.html"}</script>
-        <!-- End Jekyll SEO tag -->
-        <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Statistics And Probability Summaries" />
-</head>
-<body>
-    <div class="content">
-        {{ content }}
-    </div>
+---
+layout: default
+---
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-</body>
-</html>
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">
+      Published on {{ page.date | date: "%B %-d, %Y" }}
+    </p>
+  </header>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <footer class="post-footer">
+  
+
+  </footer>
+</article>
