@@ -9,12 +9,14 @@ This is Stats Summaries and Stories
 - About me: Tai Le Van
     - [Github](https://github.com/tailevan)
     - [LinkedIn](https://linkedin.com/in/tailevan)
-
+    
 
 ## Certifications in Data Science
 
 # Machine Learning - DeepLearning.AI - Stanford - Coursera
-- [Supervised Machine Learning](https://coursera.org/share/da0b8bf6b92dd4acfe6c9810b00a8b44)
+
+- [Advanced Learning Algorithms](/images/Stanford_ML/advanced_learning.pdf)
+- [Supervised Machine Learning](/images/Stanford_ML/supervised_learning.pdf)
 
 # MITx MicroMaster Statistics and Data Science Program
 - [Probability - The Science of Uncertainty and Data](https://courses.edx.org/certificates/a34d612b2be64d2d9a4fc69f205e3583)
