@@ -25,6 +25,7 @@ This is Stats Summaries and Stories
 - [Machine Learning with Python-From Linear Models to Deep Learning](https://courses.edx.org/certificates/99bddcae234b4074aaeb8e275ec874ed)
 
 # Data Visualization
+- [Google Looker - Google Cloud Training](/images/Looker_cert.pdf)
 - [Data Visulization With Python - IBM](https://courses.edx.org/certificates/282702f36a164c568d2b199913304396)
 - [Power BI - Davidson College](https://courses.edx.org/certificates/ceeec63c6a304a48bf29126083c14dd4)
 
