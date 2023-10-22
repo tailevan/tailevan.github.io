@@ -13,6 +13,9 @@ This is Stats Summaries and Stories
 
 ## Certifications in Data Science
 
+# Programming
+- [Dynamic Programming - University of Colorado Boulder](/images/certificates/Dynamic_programming.pdf)
+
 # Machine Learning - DeepLearning.AI - Stanford - Coursera
 
 - [Advanced Learning Algorithms](/images/Stanford_ML/advanced_learning.pdf)
