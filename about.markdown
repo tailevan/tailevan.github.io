@@ -11,6 +11,13 @@ This is Stats Summaries and Stories
     - [LinkedIn](https://linkedin.com/in/tailevan)
     
 
+
+
+## Cerification in GHG
+
+- [MRV Systems](/images/MRV_certificate.pdf)
+
+
 ## Certifications in Data Science
 
 # Programming
